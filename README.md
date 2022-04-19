@@ -9,4 +9,6 @@ You can find a presentation of the game in this link: https://www.youtube.com/wa
 
 
 **CONTRIBUTORS**
-@nikos-christodoulou,@Tasos Toumazatos, 
+Coding:@nikos-christodoulou,@Tasos Toumazatos
+
+Asset help:@ 
