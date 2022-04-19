@@ -8,7 +8,7 @@ We created a fighting arcade game called fighter x. We used assets from various 
 
 
 
-**IMPORTANT: ** WE DID NOT CREATE ANY OF THESE ASSETS AND WE DON'T OWN THEM.
+**IMPORTANT:  WE DID NOT CREATE ANY OF THESE ASSETS AND WE DON'T OWN THEM. **
 
 You can find a presentation of the game in this link: https://www.youtube.com/watch?v=wzr07HSXRNk& Our game is at the 7:10 mark. t=162s made by Georgios Papaiwannou(the teacher of the course). Our game is at the 7:10 mark.
 
