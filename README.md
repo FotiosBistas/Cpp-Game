@@ -13,7 +13,7 @@ We created a fighting arcade game called fighter x. We used assets from various 
 You can find a presentation of the game in this link: https://www.youtube.com/watch?v=wzr07HSXRNk& made by Georgios Papaiwannou(the teacher of the course). Our game is at the 7:10 mark.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=wzr07HSXRNk&
-" target="_blank"><img src="http://img.youtube.com/vi/wzr07HSXRNk&/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/wzr07HSXRNk&/1.jpg" 
 width="1080" height="720" border="10" /></a>
 
 **CONTRIBUTORS**
