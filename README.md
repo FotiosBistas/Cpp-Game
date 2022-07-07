@@ -16,7 +16,7 @@ You can find a presentation of the game in this link: https://www.youtube.com/wa
 **CONTRIBUTORS**
 Coding:[Anastasios Toumazatos](https://github.com/toumazatos "Anastasios Toumazatos"), [Nikos Christodoulou](https://github.com/nikos-christodoulou "Nikos Christodoulou")
 
-Asset help:@thanos2940
+Asset help:[Thanos Liakouras](https://github.com/thanos2940 "Thanos liakouras")
 
 
 ## Some screenshots from the game
