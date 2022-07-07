@@ -32,7 +32,7 @@ Asset help:@thanos2940
 </p>
 
 <p align="center">
-   <img src="[https://user-images.githubusercontent.com/83087431/164090841-aed0af7d-b886-4c4e-bc9c-f63242c335e7.png](https://user-images.githubusercontent.com/83087431/164090945-9f34a898-b86b-45db-bd75-41460085ce9e.png)"/> 
+   <img src="https://user-images.githubusercontent.com/83087431/164090945-9f34a898-b86b-45db-bd75-41460085ce9e.png"/> 
 </p>
 
 
