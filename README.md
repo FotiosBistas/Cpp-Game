@@ -47,7 +47,7 @@ Asset help:@thanos2940
 </p>
 
 <p align="center">
-  <i>Choosing a map.</i> 
+  <i>Fighting in the dragon's temple map</i> 
 </p>
 
 
@@ -57,7 +57,7 @@ Asset help:@thanos2940
 </p>
 
 <p align="center">
-  <i>Fighting in the dragon's temple map</i> 
+  <i>Fighting in the metal fest map</i> 
 </p>
 
 
@@ -66,7 +66,7 @@ Asset help:@thanos2940
    <img src="https://user-images.githubusercontent.com/83087431/164091132-be4bc7ef-a30a-416f-a1cb-04b76fe89300.png"/> 
 </p>
 <p align="center">
-  <i>Fighting in the dragon's temple map</i> 
+  <i>Choosing a map.</i> 
 </p>
 
 
