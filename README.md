@@ -14,7 +14,7 @@ You can find a presentation of the game in this link: https://www.youtube.com/wa
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=wzr07HSXRNk&
 " target="_blank"><img src="http://img.youtube.com/vi/wzr07HSXRNk&/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+width="1080" height="720" border="10" /></a>
 
 **CONTRIBUTORS**
 Coding:[Anastasios Toumazatos](https://github.com/toumazatos "Anastasios Toumazatos"), [Nikos Christodoulou](https://github.com/nikos-christodoulou "Nikos Christodoulou")
