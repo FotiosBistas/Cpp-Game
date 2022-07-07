@@ -8,23 +8,28 @@ We created a fighting arcade game called fighter x. We used assets from various 
 
 
 
-**IMPORTANT:  WE DID NOT CREATE ANY OF THESE ASSETS AND WE DON'T OWN THEM. **
+## **IMPORTANT:  WE DID NOT CREATE ANY OF THESE ASSETS AND WE DON'T OWN THEM. **
 
 You can find a presentation of the game in this link: https://www.youtube.com/watch?v=wzr07HSXRNk& made by Georgios Papaiwannou(the teacher of the course). Our game is at the 7:10 mark.
 
 
 **CONTRIBUTORS**
-Coding:@nikos-christodoulou,@Tasos Toumazatos
+Coding:[Anastasios Toumazatos](https://github.com/toumazatos "Anastasios Toumazatos"), [Nikos Christodoulou](https://github.com/nikos-christodoulou "Nikos Christodoulou")
 
 Asset help:@thanos2940
 
 
-**Some screenshots from the game**
+## Some screenshots from the game
 
 
 
-![image](https://user-images.githubusercontent.com/83087431/164090841-aed0af7d-b886-4c4e-bc9c-f63242c335e7.png)
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/83087431/164090841-aed0af7d-b886-4c4e-bc9c-f63242c335e7.png"/> 
+</p>
 
+<p align="center">
+  <i>The main menu of the game.</i> 
+</p>
 
 
 ![image](https://user-images.githubusercontent.com/83087431/164090945-9f34a898-b86b-45db-bd75-41460085ce9e.png)
