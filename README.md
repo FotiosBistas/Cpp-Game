@@ -42,18 +42,31 @@ Asset help:@thanos2940
 
 
 
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/83087431/164090561-f3774d14-f8cc-424d-a6a7-6be743217232.png"/> 
+</p>
+
+<p align="center">
+  <i>Choosing a map.</i> 
+</p>
 
 
 
-![image](https://user-images.githubusercontent.com/83087431/164090561-f3774d14-f8cc-424d-a6a7-6be743217232.png)
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/83087431/164090631-c9e654d5-465c-4c68-b248-cf9dc3288d0e.png"/> 
+</p>
+
+<p align="center">
+  <i>Fighting in the dragon's temple map</i> 
+</p>
 
 
 
-![image](https://user-images.githubusercontent.com/83087431/164090631-c9e654d5-465c-4c68-b248-cf9dc3288d0e.png)
-
-
-
-
-![image](https://user-images.githubusercontent.com/83087431/164091132-be4bc7ef-a30a-416f-a1cb-04b76fe89300.png)
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/83087431/164091132-be4bc7ef-a30a-416f-a1cb-04b76fe89300.png"/> 
+</p>
+<p align="center">
+  <i>Fighting in the dragon's temple map</i> 
+</p>
 
 
